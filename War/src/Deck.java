@@ -77,6 +77,7 @@ public class Deck
 		public static void shuffle()
 		{			
 			Collections.shuffle(deck);
+			//changes to deck from home!
 		}
 		
 	}
